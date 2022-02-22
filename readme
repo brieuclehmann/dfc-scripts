@@ -1,7 +1,5 @@
 dFCcode contains the Matlab scripts and functions used in 'Assessing dynamic functional connectivity in heterogeneous samples' by B.C.L. Lehmann, S.R. White, R.N. Henson, Cam-CAN, and L. Geerligs.
 
-Please direct any questions or comments to Brieuc Lehmann at brieuc.lehmann@mrc-bsu.cam.ac.uk.
-
 Dependencies:
 SPM12 - http://www.fil.ion.ucl.ac.uk/spm/software/spm12/
 GenLouvain2.1  - http://netwiki.amath.unc.edu/GenLouvain/GenLouvain
